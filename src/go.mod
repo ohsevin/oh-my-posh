@@ -22,9 +22,8 @@ require (
 	github.com/shirou/gopsutil v2.20.9+incompatible
 	github.com/stretchr/objx v0.3.0 // indirect
 	github.com/stretchr/testify v1.6.1
-	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad // indirect
-	golang.org/x/sys v0.0.0-20201015000850-e3ed0017c211
-	golang.org/x/text v0.3.3
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
+	golang.org/x/text v0.3.8
 	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776 // indirect
 	howett.net/plist v0.0.0-20200419221736-3b63eb3a43b5 // indirect
 	muzzammil.xyz/jsonc v0.0.0-20201229145248-615b0916ca38
